@@ -3,7 +3,7 @@ import {
   createClient,
 } from 'pexels';
 
-  const API_KEY = '563492ad6f917000010000018e798a9b75bf4449b197826150dd40ca';
+  const API_KEY = 'Your API KEY';
   const client = createClient(API_KEY);
   const query = 'People';
   const orientation = 'portrait';
